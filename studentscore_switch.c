@@ -6,19 +6,19 @@ int main(){
     int n=score/10;
     switch(n){
         case 10:
-        printf("Your greade is A");
+        printf("Your grade is A");
         break;
         case 9:
-        printf("Your greade is A");
+        printf("Your grade is A");
         break;
         case 8:
-        printf("Your greade is B");
+        printf("Your grade is B");
         break;
         case 7:
-        printf("Your greade is C");
+        printf("Your grade is C");
         break;
         case 6:
-        printf("Your greade is F");
+        printf("Your grade is D");
         break;
         default:
         printf("Your Grade is F");
